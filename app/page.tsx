@@ -7,7 +7,7 @@ export default function Page() {
         Liam Bailey
       </h1>
       <p className="mb-4">
-        {`Yoooo. I'm actively doing cool stuff. Some of which I will try to write about.`}
+        {`I'm actively doing interesting things. Some of which I will try to write about.`}
       </p>
       <div className="my-8">
         <BlogPosts />
