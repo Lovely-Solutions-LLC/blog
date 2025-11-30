@@ -78,7 +78,7 @@ export default async function StartupsPage() {
       <header className="su-header">
         <div className="su-wrap">
           <h1>Startups Directory</h1>
-          <div className="su-sub">Everything currently in this list is hiring for at least one role in NYC. Many are hiring in other locations, as well as for remote roles.</div>
+          <div className="su-sub">I built this list and used it while job hunting, and wanted to make it public so others can use it. Everything currently in this list is hiring for at least one role in NYC. Many are hiring in other locations, as well as for remote roles.</div>
         </div>
       </header>
 
