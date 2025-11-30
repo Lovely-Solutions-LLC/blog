@@ -52,7 +52,7 @@ export default function Footer() {
             <p className="ml-2 h-7">instagram</p>
           </a>
         </li>
-                <li>
+        <li>
           <a
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
@@ -61,6 +61,17 @@ export default function Footer() {
           >
             <ArrowIcon />
             <p className="ml-2 h-7">tiktok</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="mailto:liambailey131@gmail.com"
+          >
+            <ArrowIcon />
+            <p className="ml-2 h-7">email me</p>
           </a>
         </li>
       </ul>
