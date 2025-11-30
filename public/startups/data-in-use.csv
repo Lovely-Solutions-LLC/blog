@@ -1,6 +1,6 @@
-Name,Website,Careers Page
-Crosby,https://crosby.ai/,https://jobs.ashbyhq.com/crosby
+Name,Website,Careers Page,Header
 applied37,https://www.a37.ai/,https://jobs.ashbyhq.com/a37
+Crosby,https://crosby.ai/,https://jobs.ashbyhq.com/crosby
 attention.com,https://attention.com,https://app.dover.com/Attention/careers/aa017804-432e-4316-95b6-9869e6fd95d4
 glimpse,https://tryglimpse.com,https://www.tryglimpse.com/,https://jobs.ashbyhq.com/glimpse
 treater,https://trytreater.com,https://trytreater.com/careers
@@ -9,7 +9,7 @@ agentio,https://www.agentio.com/,https://jobs.ashbyhq.com/agentio
 Rogo,https://rogo.ai/,https://jobs.ashbyhq.com/Rogo
 camber,https://camber.health/,https://jobs.ashbyhq.com/camber
 verse medical,https://versemedical.com,https://jobs.ashbyhq.com/versemedical
-bond studio ai,https://www.bondstudio.ai/,mailto:careers@bondstudio.ai
+bond studio ai,https://www.bondstudio.ai/,careers@bondstudio.ai
 Tennr,https://www.tennr.com/,https://jobs.ashbyhq.com/tennr
 accesiBe,https://accessibe.com,https://www.linkedin.com/company/accessibe/jobs/
 Haize Labs,https://www.haizelabs.com/,https://www.haizelabs.com/about#careers
@@ -236,7 +236,7 @@ MainTouch,https://maintouch.com/,https://www.linkedin.com/company/maintouch/jobs
 Atlas,https://atlascard.com/,https://jobs.ashbyhq.com/atlas
 Tenex,https://www.tenex.co/,https://jobs.ashbyhq.com/tenexlabs
 Amigo,https://amigo.ai,https://www.amigo.ai/careers
-Maybern,https://www.maybern.com/?tpcc=NL_Marketing,https://jobs.ashbyhq.com/maybern
+Maybern,https://www.maybern.com/,https://jobs.ashbyhq.com/maybern
 Popcorn,https://www.popcorn.space/,https://www.popcorn.space/careers#open-postion
 Flipturn,https://www.getflipturn.com/,https://jobs.ashbyhq.com/flipturn
 Cloaked,https://www.cloaked.com/,https://jobs.lever.co/cloaked-app
@@ -272,9 +272,9 @@ Cake AI,https://www.cake.ai/,https://job-boards.greenhouse.io/cakeai
 PIN,https://www.getpin.xyz/,https://www.getpin.xyz/
 SpruceID,https://spruceid.com/,https://jobs.lever.co/sprucesystems
 Roam,https://ro.am/,https://ro.am/about/careers
-Range,https://range.com,"https://www.range.com/public/careers#:~:text=Every%20new%20hire%20spends%20their,how%20to%20generate%20massive%20impact"
-Pinecone,https://pinecone.io,https://www.pinecone.io/careers/#:~:text=Our%20Global%20Office%20Locations
-Merge,https://merge.dev,"https://www.merge.dev/careers#:~:text=SF%2C%20NYC%2C%20and%20Berlin%20have,never%20felt%20closer"
+Range,https://www.range.com/public/careers
+Pinecone,https://pinecone.io,https://www.pinecone.io/careers
+Merge,https://www.merge.dev/careers
 Choco,https://choco.com,https://choco.com/us/careers
 Hebbia,https://hebbia.com,https://www.hebbia.com/careers#careers
 Distyl,https://distyl.ai/,https://jobs.ashbyhq.com/Distyl
@@ -314,7 +314,7 @@ Jimini Health,https://jiminihealth.com,
 Counsel Health,https://counselhealth.com,https://jobs.ashbyhq.com/counsel
 Photon,https://www.photon.health/,https://wellfound.com/company/photon-health
 Eon,https://eon.io,https://job-boards.eu.greenhouse.io/eonio
-Belfry,http://belfrysoftware.com - http://belfrysoftware.com/,https://www.linkedin.com/company/belfrysoftware/jobs/
+Belfry,http://belfrysoftware.com,https://www.linkedin.com/company/belfrysoftware/jobs/
 ControlMonkey,https://controlmonkey.io,https://controlmonkey.io/careers/
 Seeds,https://seedsinvestor.com,https://wellfound.com/company/seeds-investor
 Culina Health,https://culinahealth.com,https://culinahealth.com/careers
@@ -324,9 +324,9 @@ Caldera,https://caldera.xyz,https://jobs.ashbyhq.com/caldera
 dub,http://dubapp.com,https://ats.rippling.com/dub/jobs
 Greenboard,https://greenboard.com,https://workatastartup.com/companies/greenboard
 Ethyca,https://ethyca.com/,https://ethyca.com/jobs-culture
-9fin,https://9fin.com/?tpcc=NL_Marketing,https://jobs.ashbyhq.com/9fin
+9fin,https://9fin.com,https://jobs.ashbyhq.com/9fin
 Tildei,https://tildei.com,https://jobs.lever.co/tildei
-Conduktor,https://conduktor.io/?tpcc=NL_Marketing,https://conduktor.io/open-positions
+Conduktor,https://conduktor.io,https://conduktor.io/open-positions
 Ellipsis Labs,https://ellipsislabs.xyz,https://www.ellipsislabs.xyz/careers
 Stepful,https://www.stepful.com/,https://www.ycombinator.com/companies/stepful/jobs
 Ideogram,https://ideogram.ai,https://jobs.ashbyhq.com/ideogram
@@ -337,24 +337,24 @@ Monto,https://montopay.com,https://montopay.com/career-in-monto/
 autone,https://autone.io,https://jobs.ashbyhq.com/autone
 Texture,https://www.texturehq.com,https://jobs.ashbyhq.com/texture
 Flex,https://withflex.com,https://www.workatastartup.com/companies/flex
-SPATE,spate.nyc - https://spate.nyc,https://www.workatastartup.com/companies/spate https://apply.workable.com/spate/ https://www.workatastartup.com/companies/spate - https://apply.workable.com/spate/
-Numeral,numeralhq.com - https://numeralhq.com,https://www.workatastartup.com/companies/numeral
-Liveflow,liveflow.io - https://liveflow.io,https://jobs.ashbyhq.com/liveflow
+SPATE,https://spate.nyc,https://www.workatastartup.com/companies/spate https://apply.workable.com/spate/ https://www.workatastartup.com/companies/spate - https://apply.workable.com/spate/
+Numeral,https://numeralhq.com,https://www.workatastartup.com/companies/numeral
+Liveflow,https://liveflow.io,https://jobs.ashbyhq.com/liveflow
 Liquid AI,https://liquid.ai,https://jobs.ashbyhq.com/liquid-ai
-DraftWise,draftwise.com - https://draftwise.com,https://www.draftwise.com/careers
-BoldVoice,boldvoice.com - https://boldvoice.com,https://www.workatastartup.com/companies/boldvoice
-Levro,levro.com - https://levro.com,https://www.workatastartup.com/companies/levro
+DraftWise,https://draftwise.com,https://www.draftwise.com/careers
+BoldVoice,https://boldvoice.com,https://www.workatastartup.com/companies/boldvoice
+Levro,https://levro.com,https://www.workatastartup.com/companies/levro
 ExchangeRobotics,https://www.exchangerobotics.com,
 Techtrust,https://techtrust.com,https://recruitcrm.io/jobs/Techtrust_jobs
-Dover,dover.com - https://dover.com,https://app.dover.com/dover/careers/733c3162-cbbd-6558-9866-1d6b8561f8b9
-Thread AI,threadai.com - https://threadai.com,https://www.threadai.com/company
+Dover,https://dover.com,https://app.dover.com/dover/careers/733c3162-cbbd-6558-9866-1d6b8561f8b9
+Thread AI,https://threadai.com,https://www.threadai.com/company
 Tetrix,https://www.tetrix.co/,https://www.linkedin.com/company/tetrixinc/jobs/
 Linx Security,http://linx.security/,
 Chalk,https://chalk.ai,https://chalk.ai/careers#open-roles
 Archive,https://archive.com,https://archive.com/careers
 Shepherd,https://shepherdinsurance.com,https://shepherdinsurance.com/careers
 Impala,https://impala.digital,https://www.linkedin.com/company/impala-digital-platform/jobs/
-"Atraverse Medical, Inc.",https://atraversemedical.com,https://atraversemedical.com/careers/
+Atraverse Medical,https://atraversemedical.com,https://atraversemedical.com/careers/
 Magna,https://magna.so,https://www.linkedin.com/company/magnatokens... https://www.magna.so/careers#openings https://www.linkedin.com/company/magnatokens... - https://www.magna.so/careers#openings
 David Energy,https://www.davidenergy.com/,https://jobs.ashbyhq.com/davidenergy
 Comun,https://comun.app,https://www.comun.app/en/careers

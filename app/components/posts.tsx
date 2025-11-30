@@ -7,7 +7,7 @@ export function BlogPosts() {
   return (
     <div>
       {allBlogs
-        .sort((a, b) => {
+        .sort((b, a) => {
           if (
             new Date(a.metadata.publishedAt) > new Date(b.metadata.publishedAt)
           ) {
