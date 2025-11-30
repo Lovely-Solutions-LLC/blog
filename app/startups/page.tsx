@@ -25,6 +25,7 @@ async function loadCsv(): Promise<CsvResult> {
 
   const headerLine = lines[0]
   const headers = headerLine.split(',').map((h) => h.trim())
+  const headersLower = headers.map((h) => h.toLowerCase())
 
   const rows: Row[] = lines
     .slice(1)
@@ -36,6 +37,13 @@ async function loadCsv(): Promise<CsvResult> {
         obj[h] = (cols[i] ?? '').trim()
       })
       return obj
+    })
+    // drop any row that is literally the header repeated
+    .filter((row) => {
+      const valuesLower = headers.map(
+        (h) => (row[h] ?? '').trim().toLowerCase()
+      )
+      return !valuesLower.every((v, i) => v === headersLower[i])
     })
 
   return { headers, rows }

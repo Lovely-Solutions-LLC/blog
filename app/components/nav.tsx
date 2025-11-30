@@ -8,7 +8,7 @@ const navItems = {
     name: 'writing',
   },
   '/startups': {
-    name: 'startups',
+    name: 'startups database',
   },
 }
 
